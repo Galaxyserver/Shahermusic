@@ -1,6 +1,6 @@
 owner=463093557926952980
-prefix=1
-game=BlackNight|1play
+prefix=S
+game=.Shά Her, DJ. ♪
 stayinchannel=true
 songinstatus=false
-token=NTQ2NTE0MTA3NzMwMjMxMzE2.D0pUcg.8a2HilvOcnvejy-D5arpybzlheo
+token=NTQ5MDY3NzMxOTU0MzAyOTg2.D1Oesg.0hbXf-_8ZFUp4qqdp15JkeV8H_I
